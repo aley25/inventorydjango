@@ -1,0 +1,24 @@
+.menuheader{
+    background-color: #000000;
+    box-sizing: content-box;
+    width: auto;
+    height: auto;
+}
+
+.header-right{
+    float: right;
+}
+.logo{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 5px;
+}
+
+
+.pagecontent{
+    display: inline-block;
+}
